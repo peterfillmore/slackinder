@@ -28,15 +28,19 @@ https://gist.github.com/rtt/10403467
 Type the following commands to interact with your bot
 
 **tindmatch**
+
 Causes the bot to retrieve a current match - displaying photo and age of the match
 
 **swiperight**
+
 'like' the current match
 
 **swipeleft**
+
 'dislike' the current match
 
 **tindscore**
+
 Get a listing of the matches that have liked you back
 
 This gives you a number and a name.
