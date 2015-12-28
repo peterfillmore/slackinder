@@ -16,9 +16,9 @@ pip install pynder
 # installation
 Edit the ./plugins/tindbot.py file and add the appropriate values for the tinder account you want to use
 
-FBTOKEN = <insert token here>
+FBTOKEN = INSERT TOKEN HERE 
 
-FBID = <insert ID here>
+FBID = INSERT ID HERE 
 
 These instructions are good for locating and grabbing the tokens you need from facebook for your tinder account: 
 
