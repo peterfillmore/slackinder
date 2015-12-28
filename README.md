@@ -20,19 +20,19 @@ https://gist.github.com/rtt/10403467
 # usage
 Type the following commands to interact with your bot
 
-## tindmatch
+##tindmatch
 Causes the bot to retrieve a current match - displaying photo and age of the match
 
-## swiperight
+##swiperight
 'like' the current match
 
-## swipeleft
+##swipeleft
 'dislike' the current match
 
-## tindscore
+##tindscore
 Get a listing of the matches that have liked you back
 This gives you a number and a name.
 Use the number to reference other actions in the bot
 
-## tindmsg [match number] [message]
+##tindmsg [match number] [message]
  
